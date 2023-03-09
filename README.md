@@ -53,14 +53,13 @@ Contributors names and contact info
 
 ## Version History
 
-* Alpha 0.2
-    * Included requirements sheet draft
+
 * Alpha 0.1
     * Initial Release
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the AGPL-v3 License - see the LICENSE.md file for details
 
 ## Contributing
 
